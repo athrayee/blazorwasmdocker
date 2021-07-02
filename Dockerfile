@@ -11,8 +11,8 @@ USER appuser
 
 FROM mcr.microsoft.com/dotnet/sdk:5.0 AS build
 WORKDIR /src
-COPY ["blazorwasmdocker.csproj", "."]
-RUN dotnet restore "blazorwasmdocker.csproj"
+COPY ["blazorwasmdocker.csproj", "blazorwasmdocker/"]
+RUN dotnet restore "blazorwasmdocker/blazorwasmdocker.csproj"
 COPY . .
 WORKDIR /src/.
 RUN dotnet build "blazorwasmdocker.csproj" -c Release -o /app/build
