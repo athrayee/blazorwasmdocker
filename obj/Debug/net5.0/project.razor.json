@@ -8,191 +8,6 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": 466124327,
-        "Kind": "Components.Component",
-        "Name": "blazorwasmdocker.App",
-        "AssemblyName": "blazorwasmdocker",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazorwasmdocker.App"
-        }
-      },
-      {
-        "HashCode": -691097406,
-        "Kind": "Components.Component",
-        "Name": "blazorwasmdocker.App",
-        "AssemblyName": "blazorwasmdocker",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "blazorwasmdocker.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazorwasmdocker.App",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1802192419,
-        "Kind": "Components.Component",
-        "Name": "blazorwasmdocker.Pages.Counter",
-        "AssemblyName": "blazorwasmdocker",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazorwasmdocker.Pages.Counter"
-        }
-      },
-      {
-        "HashCode": -185919799,
-        "Kind": "Components.Component",
-        "Name": "blazorwasmdocker.Pages.Counter",
-        "AssemblyName": "blazorwasmdocker",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "blazorwasmdocker.Pages.Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazorwasmdocker.Pages.Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 271291157,
-        "Kind": "Components.Component",
-        "Name": "blazorwasmdocker.Pages.FetchData",
-        "AssemblyName": "blazorwasmdocker",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazorwasmdocker.Pages.FetchData"
-        }
-      },
-      {
-        "HashCode": -457568719,
-        "Kind": "Components.Component",
-        "Name": "blazorwasmdocker.Pages.FetchData",
-        "AssemblyName": "blazorwasmdocker",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "blazorwasmdocker.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazorwasmdocker.Pages.FetchData",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -817363675,
-        "Kind": "Components.Component",
-        "Name": "blazorwasmdocker.Pages.Index",
-        "AssemblyName": "blazorwasmdocker",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazorwasmdocker.Pages.Index"
-        }
-      },
-      {
-        "HashCode": -1001325542,
-        "Kind": "Components.Component",
-        "Name": "blazorwasmdocker.Pages.Index",
-        "AssemblyName": "blazorwasmdocker",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "blazorwasmdocker.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazorwasmdocker.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 761450322,
-        "Kind": "Components.Component",
-        "Name": "blazorwasmdocker.Shared.SurveyPrompt",
-        "AssemblyName": "blazorwasmdocker",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazorwasmdocker.Shared.SurveyPrompt"
-        }
-      },
-      {
-        "HashCode": -1054008332,
-        "Kind": "Components.Component",
-        "Name": "blazorwasmdocker.Shared.SurveyPrompt",
-        "AssemblyName": "blazorwasmdocker",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "blazorwasmdocker.Shared.SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "blazorwasmdocker.Shared.SurveyPrompt",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 536609963,
         "Kind": "Components.Component",
         "Name": "blazorwasmdocker.Shared.MainLayout",
@@ -318,6 +133,191 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "blazorwasmdocker.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 761450322,
+        "Kind": "Components.Component",
+        "Name": "blazorwasmdocker.Shared.SurveyPrompt",
+        "AssemblyName": "blazorwasmdocker",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorwasmdocker.Shared.SurveyPrompt"
+        }
+      },
+      {
+        "HashCode": -1054008332,
+        "Kind": "Components.Component",
+        "Name": "blazorwasmdocker.Shared.SurveyPrompt",
+        "AssemblyName": "blazorwasmdocker",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazorwasmdocker.Shared.SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorwasmdocker.Shared.SurveyPrompt",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1802192419,
+        "Kind": "Components.Component",
+        "Name": "blazorwasmdocker.Pages.Counter",
+        "AssemblyName": "blazorwasmdocker",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorwasmdocker.Pages.Counter"
+        }
+      },
+      {
+        "HashCode": -185919799,
+        "Kind": "Components.Component",
+        "Name": "blazorwasmdocker.Pages.Counter",
+        "AssemblyName": "blazorwasmdocker",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazorwasmdocker.Pages.Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorwasmdocker.Pages.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 271291157,
+        "Kind": "Components.Component",
+        "Name": "blazorwasmdocker.Pages.FetchData",
+        "AssemblyName": "blazorwasmdocker",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorwasmdocker.Pages.FetchData"
+        }
+      },
+      {
+        "HashCode": -457568719,
+        "Kind": "Components.Component",
+        "Name": "blazorwasmdocker.Pages.FetchData",
+        "AssemblyName": "blazorwasmdocker",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazorwasmdocker.Pages.FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorwasmdocker.Pages.FetchData",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -817363675,
+        "Kind": "Components.Component",
+        "Name": "blazorwasmdocker.Pages.Index",
+        "AssemblyName": "blazorwasmdocker",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorwasmdocker.Pages.Index"
+        }
+      },
+      {
+        "HashCode": -1001325542,
+        "Kind": "Components.Component",
+        "Name": "blazorwasmdocker.Pages.Index",
+        "AssemblyName": "blazorwasmdocker",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazorwasmdocker.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorwasmdocker.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 466124327,
+        "Kind": "Components.Component",
+        "Name": "blazorwasmdocker.App",
+        "AssemblyName": "blazorwasmdocker",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorwasmdocker.App"
+        }
+      },
+      {
+        "HashCode": -691097406,
+        "Kind": "Components.Component",
+        "Name": "blazorwasmdocker.App",
+        "AssemblyName": "blazorwasmdocker",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "blazorwasmdocker.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "blazorwasmdocker.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
